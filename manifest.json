@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "karpathy",
+  "repo": "minGPT",
+  "versions": [
+    {
+      "commit": "37baab71b9abea1b76ab957409a1cc2fbfba8a26",
+      "parsed_at": "2026-10-17T08:09:11.006683+00:00",
+      "filetree": "filetree/37baab71b9abea1b76ab957409a1cc2fbfba8a26.nq.gz",
+      "blobs": [
+        "blob/dab52a8280d865d9e959e06639289db2ebef0361.nq.gz",
+        "blob/00d8def32b5f0bdee5e42841def7ef8ca148caee.nq.gz",
+        "blob/83ee22dc07707fd9cb62eb3215c1c1e4b150b5c9.nq.gz",
+        "blob/4e74622e7567131b81ab9b515ad2bd43d79423fc.nq.gz",
+        "blob/432505d23197589261fec9f65f7cf522283f87e4.nq.gz",
+        "blob/b8468ef9341aeb6fd76a6085c04a9909c9eaede0.nq.gz",
+        "blob/af864ecbd61b73659731b2cc762802fce097a981.nq.gz",
+        "blob/9bc9d7f75a0b6aa3744f5233332dfa45aaa2deda.nq.gz",
+        "blob/c0d085210a8f438bbea28be5e103c67e39fd0be9.nq.gz",
+        "blob/5de925b06f4d6062a289cb24fe945e0f8a2119db.nq.gz",
+        "blob/9a2d64f6f630c1a50ea7a48fbb13663901827d5e.nq.gz",
+        "blob/ad168f43935ce593a9dc1d4bd3f66ec901b58cf1.nq.gz",
+        "blob/3d89960112452062baf36bb13d43a92028fc0f0e.nq.gz",
+        "blob/f92cfd2278fd261651989b4653b75203ef5f58cb.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/9debd1773a92dda866918ce8d8e0d32fb0692889.nq.gz",
+        "blob/8070bcb841210296a6c5f29b4ecb51d4a408e51f.nq.gz",
+        "blob/55f03ee1caf4290e86f5ce02570553a87caeee23.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
