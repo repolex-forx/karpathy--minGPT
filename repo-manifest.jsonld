@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/karpathy/minGPT/commit/37baab71b9abea1b76ab957409a1cc2fbfba8a26",
       "git:hexsha": "37baab71b9abea1b76ab957409a1cc2fbfba8a26",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:11:09.924874+00:00"
     }
   ]
 }
