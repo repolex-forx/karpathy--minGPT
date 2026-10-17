@@ -1,0 +1,11 @@
+{
+  "org": "karpathy",
+  "repo": "minGPT",
+  "versions": [
+    {
+      "commit": "37baab71b9abea1b76ab957409a1cc2fbfba8a26",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:11:09.925318+00:00"
+    }
+  ]
+}
